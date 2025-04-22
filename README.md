@@ -32,4 +32,3 @@ To run this programme, you will need Python with the tkinter and pygame librarie
 
 For a more advanced study, the advice is to interpret the code also by going on the web, literally ‘disassembling’ the code by taking it in blocks starting from practice with the help of a Phyton programming book for school use and for fun 
 
-Translated with DeepL.com (free version)
